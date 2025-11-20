@@ -18,4 +18,6 @@ This is a mini-project analyzing a small sales dataset using Python.
 - matplotlib
 
 ## Author
-- Your Name
+- Sufyan Ali
+- 
+
